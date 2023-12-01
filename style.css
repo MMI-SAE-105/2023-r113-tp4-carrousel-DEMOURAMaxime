@@ -58,3 +58,20 @@ img {
   .carrousel_btn-apres {
     right: 0;
   }
+
+.caroussel_liste-liens {
+  display: flex;/* aligne horizontalement les enfants */
+  text-align: center; /* centre horizontalement les enfants */
+  margin: 0; /* enlève les marges par défaut */
+  padding: 0; /* enlève les padding par défaut */
+  list-style: none; /* enlève les puces par défaut */
+  justify-content: space-between; /* espace entre les enfants */
+  margin-inline: 10px;
+  text-decoration: none;
+}
+
+.caroussel_lien {
+  text-decoration: none;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
