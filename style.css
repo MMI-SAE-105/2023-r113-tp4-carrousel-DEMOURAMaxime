@@ -76,7 +76,7 @@ img {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-  li a.actif {
+ li a.actif {
     color: blue;
     padding: 5px;
   }
@@ -88,5 +88,4 @@ img {
   figcaption {
     text-align: start;
     font-family: Arial, Helvetica, sans-serif;
-  }
   }
